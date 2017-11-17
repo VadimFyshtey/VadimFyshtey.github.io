@@ -156,6 +156,9 @@
 	.block_menu ul img{
 		display: none;
 	}
+	.block_menu ul li a{
+		font-size: 16px;
+	}
 	.header h2{
 		font-size: 30px;
 		left: 20%;
@@ -239,6 +242,7 @@
 	.myWorks .site img{
 		width: 300px;
 		height: 172px;
+		padding: 0;
 	}
 	.sliderButtons #nextS{
 		position: static;
